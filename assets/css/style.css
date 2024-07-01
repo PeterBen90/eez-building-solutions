@@ -860,6 +860,13 @@ p {
         cursor: default;
       }
 
+      @media (max-width: 767px) {
+        a.disabled {
+          position: relative;
+          bottom: 32px;
+        }
+      }
+
 /*===========================
       4.SERVICES css 
 ===========================*/

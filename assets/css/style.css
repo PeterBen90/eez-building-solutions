@@ -1226,6 +1226,7 @@ p.form-message.error {
   .contact-form .single-form textarea,
   .contact-form .single-form input {
     width: 100%;
+    border-radius: 0px !important;
     height: 60px;
     color: #fff;
     border: 1px solid #212529;
